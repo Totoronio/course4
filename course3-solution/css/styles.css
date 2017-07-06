@@ -8,3 +8,7 @@
 
 	background-color: #aaaaaa;
 }
+
+button.collapsed {
+	background-color: #fff;
+}
