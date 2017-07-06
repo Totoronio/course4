@@ -1,0 +1,14 @@
+#chicken-container {
+	margin: 30px;
+	padding: 10px;
+}
+
+
+.row #chicken {
+
+	background-color: #aaaaaa;
+}
+
+button.collapsed {
+	background-color: #fff;
+}
