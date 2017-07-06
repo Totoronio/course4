@@ -1,5 +1,10 @@
-.container-fluid .row #chicken {
+#chicken-container {
 	margin: 30px;
 	padding: 10px;
+}
+
+
+.row #chicken {
+
 	background-color: #aaaaaa;
 }
